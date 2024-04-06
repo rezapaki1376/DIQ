@@ -1,9 +1,10 @@
-# DIQ
+# DIQ project
 This repository contains the project for the course on Data and Information Quality held at Politecnico di Milano during the winter semester of the academic year 2023-2024. 
+
 EVALUATION METRICS
 CLASSIFICATION: Performance (F1 weighted score), Distance between train & test performances (F1 weighted score), Speed of training
 
-# Tasks
+## Tasks
 
 1) Variables Types
 — 10 experiments with different combinations of numeric, categoric and boolean features
